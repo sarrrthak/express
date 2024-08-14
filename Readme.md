@@ -2,6 +2,7 @@
 
 **Fast, unopinionated, minimalist web framework for [Node.js](http://nodejs.org).**
 
+# Sarthak Shinde
 **This project has a [Code of Conduct][].**
 
 ## Table of contents
